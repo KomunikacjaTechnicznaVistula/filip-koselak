@@ -1,11 +1,11 @@
-name: Komunikacja Techniczna, Akademia Finansów i Biznesu Vistula
-title: Morris Mini Owner's Manual
+name: Komunikacja Techniczna, Filip Koselak
+title: Filip's Github Pages
 description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
 remote_theme: KomunikacjaTechnicznaVistula/just-the-docs
 
 color_scheme: filiptest
 
-# logo: "/assets/images/Morris_badge.png"
+logo: "/assets/images/Morris_badge.png"
 
 aux_links:
   "Source repository on GitHub":
